@@ -18,3 +18,5 @@ CurrentPlayer makes for his/her opponent. The second one “pentago_ai” finds 
 move for the CurrentPlayer given the current board. Some related predicates can be
 defined and used in your program to support the inference of “threatening” and
 “pentagon_ai”.
+
+![Project Image](https://github.com/fe7ng654123/Prolog-Programming-Pentago/blob/main/prolog.png?raw=true)
